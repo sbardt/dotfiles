@@ -59,18 +59,18 @@ cd dotfiles
 
 ### Screenshot
 
-clean desktop with dmenu
+clean desktop
 ![screen1](/screenshot.png)
 
-busy (ncmpcpp,vim,weechat)
+fake busy (ncmpcpp,vim,weechat)
 ![screen2](/screenshot2.png)
 
-Lockscreen (i3lock)
+lockscreen (i3lock)
 ![lockscreen](/screenshot3.png)
 
 
-[Wallpaper](/nord.png)  
-[Lockscreen Image](/lock.png)
+[wallpaper](/nord.png)  
+[lockscreen Image](/lock.png)
 
 
 &nbsp;
